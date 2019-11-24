@@ -1,0 +1,6 @@
+How to run the program
+●	Open command prompt and make sure the java version is 1.8 or higher.
+●	Compile all the programs by running javac *.java command.
+●	Go one level above the current directory and run
+ java RtStart <port-number> <file-path>
+●	Repeat the same for all nodes, and use the same port numbers
